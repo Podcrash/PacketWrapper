@@ -1,0 +1,5 @@
+name: PacketWrapper
+main: com.packetwrapper.abstractpackets.PacketWrapper
+version: 1.0
+authors: [dmulloy2, comphenix, lordraindance2, notoh]
+softdepend: [Protocollib]
